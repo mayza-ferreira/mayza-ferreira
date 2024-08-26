@@ -1,30 +1,46 @@
 #### Mayza - Front-End Developer
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Welcome to my GitHub repository! I'm Mayza, a passionate front-end developer dedicated to creating engaging and user-friendly web experiences. With a strong background in computer science and a deep love for coding, I strive to deliver high-quality solutions that merge functionality with aesthetic appeal.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Welcome to my GitHub repository! I'm Mayza, a passionate front-end developer excited to learn and grow in the field. With a solid foundation in computer science and a love for coding, I focus on creating engaging and user-friendly web experiences. I'm always eager to explore new technologies and improve my skills to deliver high-quality, functional, and aesthetically pleasing solutions.
 
 ## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Girl.png" alt="Girl" width="25" height="25" />
 
-I'm a driven front-end developer proficient in HTML, CSS, and JavaScript, with hands-on experience in:
+I’m a driven front-end developer with hands-on experience in:
 
+- HTML, CSS, and JavaScript
 - Consuming REST APIs
-- Version control with Git
+- Version control with Git and GitHub
 - Web hosting and SEO optimization
 - Responsive design using Bootstrap and Flexbox
-- Building dynamic web applications with ReactJS
+- Building dynamic web applications with ReactJS and Next.js
+
+Currently, I am also expanding my skills in UX/UI design with Figma and gaining foundational knowledge in backend development with Node.js and TypeScript.
 
 ## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist Medium-Light Skin Tone" width="25" height="25" />
 
 ### Library:
 
-- [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  Leveraging the power of React to build interactive user interfaces and single-page applications.
+- [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) Leveraging the power of React to build interactive user interfaces and single-page applications.
 
 ### Git Provider:
 
--  [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) Utilizing GitHub for version control, collaboration, and showcasing my projects to the world.
+- [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) Utilizing GitHub for version control, collaboration, and showcasing my projects to the world.
 
 ### CSS Framework:
 
--  [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) Employing Bootstrap for rapid prototyping and creating responsive, mobile-first web projects.
+- [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) Employing Bootstrap for rapid prototyping and creating responsive, mobile-first web projects.
+
+### Backend/Runtime Environment:
+
+- [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) Working with Node.js to build server-side applications and APIs.
+
+### UI Components/Styling:
+
+- [![My Skills](https://skillicons.dev/icons?i=tailwindcss)](https://skillicons.dev) Using Tailwind CSS and ShadCN for designing and implementing modern, responsive UI components.
+
+### Databases:
+
+- [![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev) Managing data with PostgreSQL and exploring database solutions with Prisma.
+
 
 
 <!--
