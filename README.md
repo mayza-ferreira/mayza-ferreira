@@ -1,3 +1,5 @@
+![Banner](https://github.com/mayza-ferreira/mayza-ferreira/blob/main/banner.gif)
+
 #### Mayza - Front-End Developer
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Welcome to my GitHub repository! I'm Mayza, a passionate front-end developer excited to learn and grow in the field. With a solid foundation in computer science and a love for coding, I focus on creating engaging and user-friendly web experiences. I'm always eager to explore new technologies and improve my skills to deliver high-quality, functional, and aesthetically pleasing solutions.
