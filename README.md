@@ -12,10 +12,11 @@ I’m a driven front-end developer with hands-on experience in:
 - Consuming REST APIs
 - Version control with Git and GitHub
 - Web hosting and SEO optimization
-- Responsive design using Bootstrap and Flexbox
+- Responsive design using Bootstrap, Flexbox, and Tailwind CSS
 - Building dynamic web applications with ReactJS and Next.js
+- Exploring backend fundamentals with Node.js and TypeScript
 
-Currently, I am also expanding my skills in UX/UI design with Figma and gaining foundational knowledge in backend development with Node.js and TypeScript.
+I enjoy learning from diverse perspectives, and tackling challenges that enhance my development skills.
 
 ## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist Medium-Light Skin Tone" width="25" height="25" />
 
