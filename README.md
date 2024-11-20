@@ -44,6 +44,8 @@ I enjoy learning from diverse perspectives, and tackling challenges that enhance
 
 - [![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev) Managing data with PostgreSQL and exploring database solutions with Prisma.
 
+## 📄 My Resume
+You can view or download my resume here: [Mayza_Ferreira_CV.pdf](https://github.com/mayza-ferreira/mayza-ferreira/blob/main/cv.pdf)
 
 
 <!--
