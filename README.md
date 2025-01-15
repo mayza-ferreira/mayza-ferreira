@@ -46,7 +46,7 @@ I enjoy learning from diverse perspectives, and tackling challenges that enhance
 
 ## 📄 My Resume
 You can view or download my resume here: [Mayza_Ferreira_CV.pdf](https://github.com/mayza-ferreira/mayza-ferreira/blob/main/cv.pdf)
-
+Additionally, you can verify my SheCodes certifications here: [My SheCodes Profile](https://www.shecodes.io/graduates/68657-mayza-ferreira).
 
 <!--
 **mayza-ferreira/mayza-ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
