@@ -2,47 +2,38 @@
 
 #### Mayza - Front-End Developer
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Welcome to my GitHub repository! I'm Mayza, a passionate front-end developer excited to learn and grow in the field. With a solid foundation in computer science and a love for coding, I focus on creating engaging and user-friendly web experiences. I'm always eager to explore new technologies and improve my skills to deliver high-quality, functional, and aesthetically pleasing solutions.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Welcome to my GitHub profile! I'm Mayza, a front-end developer currently deepening my skills in React and Next.js through the Certified Tech Developer program. I love building user-friendly web applications and continuously improving through real-world projects and best practices.
 
 ## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Girl.png" alt="Girl" width="25" height="25" />
 
-I’m a driven front-end developer with hands-on experience in:
-
-- HTML, CSS, and JavaScript
-- Consuming REST APIs
-- Version control with Git and GitHub
-- Web hosting and SEO optimization
-- Responsive design using Bootstrap, Flexbox, and Tailwind CSS
-- Building dynamic web applications with ReactJS and Next.js
-- Exploring backend fundamentals with Node.js and TypeScript
-
-I enjoy learning from diverse perspectives, and tackling challenges that enhance my development skills.
+I’m a front-end developer currently enrolled in the Certified Tech Developer program, focused on technologies like React and Next.js. I'm gaining hands-on experience through real-world projects, including a social media app built with TypeScript, Tailwind CSS, ShadCN, and NextAuth. I'm passionate about clean, accessible, and responsive design, and enjoy tackling challenges that help me grow.
 
 ## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist Medium-Light Skin Tone" width="25" height="25" />
 
-### Library:
+### Frontend:
 
-- [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) Leveraging the power of React to build interactive user interfaces and single-page applications.
+- [![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev) Building dynamic, component-based UIs with React and full-stack applications using Next.js.
 
-### Git Provider:
+### Styling & UI Components:
 
-- [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) Utilizing GitHub for version control, collaboration, and showcasing my projects to the world.
+- [![My Skills](https://skillicons.dev/icons?i=tailwindcss)](https://skillicons.dev) Creating accessible and responsive designs with Tailwind CSS and ShadCN.
 
-### CSS Framework:
+### Programming Languages:
 
-- [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) Employing Bootstrap for rapid prototyping and creating responsive, mobile-first web projects.
+- [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) Writing clean and maintainable code with JavaScript and TypeScript.
 
-### Backend/Runtime Environment:
+### Version Control:
 
-- [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) Working with Node.js to build server-side applications and APIs.
+- [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) Collaborating and managing codebases with Git and GitHub.
 
-### UI Components/Styling:
+### Backend / Tools:
 
-- [![My Skills](https://skillicons.dev/icons?i=tailwindcss)](https://skillicons.dev) Using Tailwind CSS and ShadCN for designing and implementing modern, responsive UI components.
+- [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) Exploring server-side development with Node.js and API creation.
 
 ### Databases:
 
-- [![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev) Managing data with PostgreSQL and exploring database solutions with Prisma.
+- [![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev) Managing relational data with PostgreSQL and integrating Prisma as an ORM.
+
 
 ## 📄 My Resume
 You can view or download my resume here: [Mayza_Ferreira_CV.pdf](https://github.com/mayza-ferreira/mayza-ferreira/blob/main/cv.pdf)
