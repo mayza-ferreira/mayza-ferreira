@@ -2,11 +2,12 @@
 
 #### Mayza - Front-End Developer
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Welcome to my GitHub profile! I'm Mayza, a front-end developer currently deepening my skills in React and Next.js through the Certified Tech Developer program. I love building user-friendly web applications and continuously improving through real-world projects and best practices.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Welcome to my GitHub profile! 
+
 
 ## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Girl.png" alt="Girl" width="25" height="25" />
 
-I’m a front-end developer currently enrolled in the Certified Tech Developer program, focused on technologies like React and Next.js. I'm gaining hands-on experience through real-world projects, including a social media app built with TypeScript, Tailwind CSS, ShadCN, and NextAuth. I'm passionate about clean, accessible, and responsive design, and enjoy tackling challenges that help me grow.
+I’m Mayza, a front-end developer currently studying SheCodes Plus AI👩‍💻, focusing on front-end development and exploring how AI can enhance web projects. Always eager to keep learning and growing as a developer!
 
 ## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist Medium-Light Skin Tone" width="25" height="25" />
 
