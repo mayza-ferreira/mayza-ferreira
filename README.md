@@ -7,7 +7,7 @@
 
 ## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Girl.png" alt="Girl" width="25" height="25" />
 
-I’m Mayza, a front-end developer currently studying SheCodes Plus AI👩‍💻, focusing on front-end development and exploring how AI can enhance web projects. Always eager to keep learning and growing as a developer!
+I’m Mayza, a front-end developer currently studying Computer Science in University, focusing on front-end development and exploring how to enhance web projects. Always eager to keep learning and growing as a developer!
 
 ## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist Medium-Light Skin Tone" width="25" height="25" />
 
