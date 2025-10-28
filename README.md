@@ -1,15 +1,17 @@
-![Banner](https://github.com/mayza-ferreira/mayza-ferreira/blob/main/banner.gif)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/mayza-ferreira/mayza-ferreira/banner.gif" alt="Banner" width="800" />
+</p>
+
 
 #### Mayza - Front-End Developer
+<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Welcome to my GitHub profile! 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Welcome to my GitHub profile! 
 
-
-## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Girl.png" alt="Girl" width="25" height="25" />
+## About Me <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/People/Girl.png" alt="Girl" width="25" height="25" />
 
 I’m Mayza, a front-end developer currently studying Computer Science in University, focusing on front-end development and exploring how to enhance web projects. Always eager to keep learning and growing as a developer!
 
-## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist Medium-Light Skin Tone" width="25" height="25" />
+## Tech Stack <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist Medium-Light Skin Tone" width="25" height="25" />
 
 ### Frontend:
 
@@ -37,7 +39,7 @@ I’m Mayza, a front-end developer currently studying Computer Science in Univer
 
 
 ## 📄 My Resume
-You can view or download my resume here: [Mayza_Ferreira_CV.pdf](https://github.com/mayza-ferreira/mayza-ferreira/blob/main/MyResume.pdf)
+You can view or download my resume here: [Mayza_Ferreira_CV.pdf](https://cdn.jsdelivr.net/gh/mayza-ferreira/mayza-ferreira/MyResume.pdf)
 Additionally, you can verify my SheCodes certifications here: [My SheCodes Profile](https://www.shecodes.io/graduates/68657-mayza-ferreira).
 
 <!--
