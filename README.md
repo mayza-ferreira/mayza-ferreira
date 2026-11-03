@@ -39,7 +39,7 @@ I’m Mayza, a front-end developer currently studying Computer Science in Univer
 
 
 ## 📄 My Resume
-You can view or download my resume [here](https://cdn.jsdelivr.net/gh/mayza-ferreira/mayza-ferreira/MyResume.pdf).
+You can view or download my resume [here](https://cdn.jsdelivr.net/gh/mayza-ferreira/mayza-ferreira@57ed3fcd654ca7200849fbf3c8795b688893e67a/MyResume.pdf).
 Additionally, you can verify my SheCodes certifications here: [My SheCodes Profile](https://www.shecodes.io/graduates/68657-mayza-ferreira).
 
 <!--
